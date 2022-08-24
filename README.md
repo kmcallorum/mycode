@@ -1,23 +1,22 @@
-# mycode (Project Title)
+# mycode (A Golang course)
 
 For the class
 What is the purpose of putting up this repo?
+To hold all the lab work from the class
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine
-for development and testing purposes. See deployment for notes on how to deploy the project
-on a live system.
+Download golang and install
 
 ### Prerequisites
 
-What things are needed to install the software and how to install them. For now, maybe copy in
-"how to install python and python3 using apt."
+A knowledge in either Mac or Windows will do
 
 ## Built With
 
 * [Python](https://www.python.org/) - The coding language used
+* [Go](https://go.dev/) - The coding language to learn
 
 ## Authors
 
-* **Your Name** - *Initial work* - [YourWebsite](https://example.com/)
+* **Kevin P McAllorum** - *Initial work* 
